@@ -11,7 +11,7 @@ import { Skills } from "./components/Skills";
 function App() {
   return (
     <>
-      <div id="home"className="bg-black pb-28 banner">
+      <div id="home"className="bg-purple-900 pb-28 banner ">
     <NavBar/>
     <Banner/>
     </div>
